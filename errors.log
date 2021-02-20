@@ -1,0 +1,264 @@
+api/core/settings.py:35:1: S104 Possible binding to all interfaces.
+api/api/api_views/other/compare_helper.py:19:1: F401 '...serializers.UserTokenSerializer' imported but unused
+api/api/api_views/other/compare_helper.py:38:1: E302 expected 2 blank lines, found 1
+api/api/api_views/other/compare_helper.py:122:1: E302 expected 2 blank lines, found 1
+api/api/api_views/other/compare_helper.py:123:1: C901 'parse_ok' is too complex (15)
+api/api/api_views/other/compare_helper.py:150:29: F821 undefined name 'ok_user'
+api/api/api_views/other/compare_helper.py:180:29: F821 undefined name 'ok_user'
+api/api/api_views/other/compare_helper.py:214:25: F821 undefined name 'ok_user'
+api/api/api_views/other/compare_helper.py:310:15: W291 trailing whitespace
+api/api/api_views/other/compare_helper.py:319:120: E501 line too long (120 > 119 characters)
+api/api/api_views/other/compare_helper.py:334:22: F541 f-string is missing placeholders
+api/api/api_views/other/compare_helper.py:435:1: S501 Requests call with verify=False disabling SSL certificate checks, security issue.
+api/api/api_views/other/compare_helper.py:483:18: F541 f-string is missing placeholders
+api/api/api_views/other/service_map.py:2:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:3:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:4:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:5:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:6:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:7:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:8:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:9:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:10:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:11:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:12:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:13:1: W191 indentation contains tabs
+api/api/api_views/other/crow.py:11:1: F401 '.utils.handle_social_links' imported but unused
+api/api/api_views/other/crow.py:17:1: F401 '...tasks.crow_check_status' imported but unused
+api/api/api_views/other/crow.py:181:19: C416 Unnecessary list comprehension - rewrite using list().
+api/api/api_views/other/utils.py:133:1: E302 expected 2 blank lines, found 1
+api/api/api_views/main/logs.py:9:1: E303 too many blank lines (3)
+api/api/api_views/main/logs.py:13:23: W291 trailing whitespace
+api/api/api_views/main/profile.py:24:1: S105 Possible hardcoded password: 'https://api.instagram.com/oauth/access_token'
+api/api/api_views/main/profile.py:35:1: S105 Possible hardcoded password: '22b1f3f3-37a0-4841-93bd-67092d50b570'
+api/api/api_views/main/profile.py:192:5: C901 'GetUsers.post' is too complex (15)
+api/api/api_views/main/profile.py:284:14: C408 Unnecessary list call - rewrite as a literal.
+api/api/api_views/main/dashboard.py:9:1: F401 '.services_decloration.tg_channel_service' imported but unused
+api/api/api_views/main/dashboard.py:13:1: F401 '...models.TgChannels' imported but unused
+api/api/api_views/main/dashboard.py:336:18: B305 `.next()` is not a thing on Python 3. Use the `next()` builtin. For Python 2 compatibility, use `six.next()`.
+api/api/api_views/main/dashboard.py:530:41: E711 comparison to None should be 'if cond is None:'
+api/api/api_views/main/dashboard.py:578:120: E501 line too long (126 > 119 characters)
+api/api/api_views/main/services_decloration.py:1:120: E501 line too long (120 > 119 characters)
+api/api/api_views/main/tg_auth.py:1:1: F401 'django.http.HttpResponse' imported but unused
+api/api/api_views/main/tg_auth.py:2:1: F401 'django.shortcuts.render' imported but unused
+api/api/api_views/main/tg_auth.py:3:1: F401 'django.contrib.auth.models.User' imported but unused
+api/api/api_views/main/tg_auth.py:3:1: F401 'django.contrib.auth.models.Group' imported but unused
+api/api/api_views/main/tg_auth.py:7:1: F401 'rest_framework.viewsets' imported but unused
+api/api/api_views/main/tg_auth.py:11:1: F401 '...serializers.UserTokenSerializer' imported but unused
+api/api/api_views/main/tg_auth.py:12:1: F401 '...models.Profile' imported but unused
+api/api/api_views/main/tg_auth.py:12:1: F401 '...models.Pubs' imported but unused
+api/api/api_views/main/tg_auth.py:14:1: F401 'vk_api' imported but unused
+api/api/api_views/main/tg_auth.py:15:1: F401 'requests' imported but unused
+api/api/api_views/main/tg_auth.py:16:1: F401 'json' imported but unused
+api/api/api_views/main/tg_auth.py:18:1: F401 'datetime' imported but unused
+api/api/api_views/main/tg_auth.py:22:1: F811 redefinition of unused 'settings' from line 5
+api/api/api_views/main/tg_auth.py:29:1: E265 block comment should start with '# '
+api/api/api_views/main/tg_auth.py:44:1: W391 blank line at end of file
+api/api/api_views/vk/analyze.py:97:120: E501 line too long (121 > 119 characters)
+api/api/api_views/vk/stories.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/stories.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/stories.py:8:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/stories.py:9:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/stories.py:26:1: E303 too many blank lines (3)
+api/api/api_views/vk/stories.py:27:5: C901 'GetStories.get' is too complex (13)
+api/api/api_views/vk/stories.py:43:9: F841 local variable 'stories' is assigned to but never used
+api/api/api_views/vk/stories.py:73:28: W291 trailing whitespace
+api/api/api_views/vk/stories.py:75:36: W291 trailing whitespace
+api/api/api_views/vk/stories.py:87:9: F841 local variable 'timestamp_from' is assigned to but never used
+api/api/api_views/vk/stories.py:88:9: F841 local variable 'timestamp_to' is assigned to but never used
+api/api/api_views/vk/stories.py:92:24: C408 Unnecessary dict call - rewrite as a literal.
+api/api/api_views/vk/stories.py:106:34: F821 undefined name 'i'
+api/api/api_views/vk/stories.py:106:35: E211 whitespace before '['
+api/api/api_views/vk/stories.py:124:40: W291 trailing whitespace
+api/api/api_views/vk/stories.py:142:13: F841 local variable 'interactions_in_this_month' is assigned to but never used
+api/api/api_views/vk/stories.py:155:1: E303 too many blank lines (3)
+api/api/api_views/vk/stories.py:158:1: W391 blank line at end of file
+api/api/api_views/vk/posts.py:243:41: C416 Unnecessary list comprehension - rewrite using list().
+api/api/api_views/vk/reach.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/reach.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/reach.py:8:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/reach.py:9:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/reach.py:26:1: E303 too many blank lines (3)
+api/api/api_views/vk/reach.py:27:5: C901 'GetReach.get' is too complex (15)
+api/api/api_views/vk/reach.py:75:28: W291 trailing whitespace
+api/api/api_views/vk/reach.py:77:36: W291 trailing whitespace
+api/api/api_views/vk/reach.py:95:17: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/reach.py:106:17: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/reach.py:139:120: E501 line too long (120 > 119 characters)
+api/api/api_views/vk/audience.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/audience.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/audience.py:7:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/audience.py:8:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/audience.py:25:1: E303 too many blank lines (3)
+api/api/api_views/vk/audience.py:64:20: E251 unexpected spaces around keyword / parameter equals
+api/api/api_views/vk/audience.py:80:22: W291 trailing whitespace
+api/api/api_views/vk/video.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/video.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/video.py:8:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/video.py:27:1: E303 too many blank lines (3)
+api/api/api_views/vk/video.py:28:5: C901 'GetVideos.get' is too complex (16)
+api/api/api_views/vk/video.py:50:9: F841 local variable 'posts_ids' is assigned to but never used
+api/api/api_views/vk/video.py:51:9: F841 local variable 'posts' is assigned to but never used
+api/api/api_views/vk/video.py:52:9: F841 local variable 'clear_posts' is assigned to but never used
+api/api/api_views/vk/video.py:55:9: F841 local variable 'vk_collection' is assigned to but never used
+api/api/api_views/vk/video.py:78:9: F841 local variable 'timestamp_from' is assigned to but never used
+api/api/api_views/vk/video.py:79:9: F841 local variable 'timestamp_to' is assigned to but never used
+api/api/api_views/vk/video.py:85:24: E251 unexpected spaces around keyword / parameter equals
+api/api/api_views/vk/video.py:118:20: C408 Unnecessary dict call - rewrite as a literal.
+api/api/api_views/vk/video.py:163:1: W293 blank line contains whitespace
+api/api/api_views/vk/video.py:177:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:179:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:181:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:183:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:195:1: E303 too many blank lines (3)
+api/api/api_views/vk/video.py:198:1: W391 blank line at end of file
+api/api/api_views/vk/engagement.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/engagement.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/engagement.py:9:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/engagement.py:10:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/engagement.py:27:1: E303 too many blank lines (3)
+api/api/api_views/vk/engagement.py:51:9: F841 local variable 'posts' is assigned to but never used
+api/api/api_views/vk/engagement.py:81:28: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:83:36: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:162:1: E303 too many blank lines (3)
+api/api/api_views/vk/engagement.py:168:1: E303 too many blank lines (3)
+api/api/api_views/vk/engagement.py:169:5: C901 'GetPrimeTime.get' is too complex (21)
+api/api/api_views/vk/engagement.py:174:9: F841 local variable 'posts' is assigned to but never used
+api/api/api_views/vk/engagement.py:177:120: E501 line too long (181 > 119 characters)
+api/api/api_views/vk/engagement.py:177:182: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:178:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:178:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:178:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:179:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:179:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:179:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:180:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:180:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:180:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:181:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:181:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:181:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:182:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:182:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:182:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:183:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:183:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:183:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:184:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:184:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:184:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:185:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:185:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:185:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:186:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:186:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:186:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:187:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:187:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:187:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:188:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:188:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:188:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:189:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:189:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:189:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:190:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:190:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:190:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:191:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:191:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:191:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:192:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:192:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:192:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:193:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:193:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:193:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:194:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:194:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:194:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:195:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:195:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:195:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:196:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:196:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:196:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:197:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:197:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:200:9: E303 too many blank lines (2)
+api/api/api_views/vk/engagement.py:228:36: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:254:1: W293 blank line contains whitespace
+api/api/api_views/vk/engagement.py:266:1: W293 blank line contains whitespace
+api/api/api_views/yt/videos_yt.py:55:23: C416 Unnecessary list comprehension - rewrite using list().
+api/api/api_views/ok/reach_ok.py:9:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/reach_ok.py:18:1: E303 too many blank lines (3)
+api/api/api_views/ok/reach_ok.py:19:5: C901 'OkGetReach.get' is too complex (13)
+api/api/api_views/ok/reach_ok.py:119:9: E303 too many blank lines (2)
+api/api/api_views/ok/reach_ok.py:135:107: W291 trailing whitespace
+api/api/api_views/ok/reach_ok.py:150:1: E303 too many blank lines (4)
+api/api/api_views/ok/posts_ok.py:11:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/audience_ok.py:8:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/audience_ok.py:17:1: E303 too many blank lines (3)
+api/api/api_views/ok/audience_ok.py:18:5: C901 'OkGetAudienceStat.get' is too complex (26)
+api/api/api_views/ok/engagement_ok.py:10:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/engagement_ok.py:19:1: E303 too many blank lines (3)
+api/api/api_views/ok/engagement_ok.py:20:5: C901 'OkGetEngagementRates.get' is too complex (11)
+api/api/api_views/ok/engagement_ok.py:148:9: E303 too many blank lines (2)
+api/api/api_views/ok/engagement_ok.py:187:13: E303 too many blank lines (2)
+api/api/api_views/ok/engagement_ok.py:203:9: E303 too many blank lines (2)
+api/api/api_views/ok/engagement_ok.py:222:13: E123 closing bracket does not match indentation of opening bracket's line
+api/api/api_views/ok/engagement_ok.py:226:13: E123 closing bracket does not match indentation of opening bracket's line
+api/api/api_views/ok/engagement_ok.py:248:1: E303 too many blank lines (4)
+api/api/api_views/zen/posts_zen.py:112:41: C416 Unnecessary list comprehension - rewrite using list().
+api/api/migrations/0006_facebookaccounts.py:43:99: C819 trailing comma prohibited
+api/api/migrations/0016_tglinks.py:21:120: E501 line too long (151 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:27:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:32:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:37:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:42:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:47:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:52:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:57:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:71:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:76:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:81:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:86:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:91:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:96:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0010_profilegroups_channel_category.py:17:120: E501 line too long (131 > 119 characters)
+api/tests/test_api_zen.py:23:15: E222 multiple spaces after operator
+api/tests/test_api_zen.py:48:1: E303 too many blank lines (3)
+api/tests/test_api_profile.py:81:1: S106 Possible hardcoded password: 'abc'
+api/tests/test_api_profile.py:128:9: B011 Do not call assert False since python -O removes these calls. Instead callers should raise AssertionError().
+api/tests/test_celery_tasks.py:85:1: S106 Possible hardcoded password: 'QWERTY'
+api/tests/test_api_compare.py:2:1: F401 'json' imported but unused
+api/tests/test_api_compare.py:5:1: F401 'django.http.QueryDict' imported but unused
+api/tests/test_api_ok.py:4:1: F401 'datetime' imported but unused
+api/tests/test_api_ok.py:54:1: W391 blank line at end of file
+api/tests/test_api_vk.py:42:1: W293 blank line contains whitespace
+api/tests/test_api_vk.py:46:1: E302 expected 2 blank lines, found 1
+api/tests/test_api_vk.py:149:29: F821 undefined name 'datetime'
+api/tests/factories/api_factories.py:5:120: E501 line too long (120 > 119 characters)
+api/tests/factories/api_factories.py:15:1: E302 expected 2 blank lines, found 1
+selenium_parsers/facebook/groups_parser.py:192:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+selenium_parsers/facebook/pages_parser.py:199:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+selenium_parsers/facebook/utils/post.py:76:1: S110 Try, Except, Pass detected.
+selenium_parsers/worker/utils.py:32:1: S501 Requests call with verify=False disabling SSL certificate checks, security issue.
+selenium_parsers/worker/tasks_runer/executor.py:4:1: S404 Consider possible security implications associated with subprocess module.
+selenium_parsers/worker/tasks_runer/executor.py:34:1: S602 subprocess call with shell=True identified, security issue.
+selenium_parsers/utils/parsing.py:42:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+proxy_manager/commons.py:34:1: S107 Possible hardcoded password: ''
+proxy_manager/database.py:61:1: S608 Possible SQL injection vector through string-based query construction.
+proxy_manager/database.py:70:1: S608 Possible SQL injection vector through string-based query construction.
+proxy_manager/api.py:70:1: S201 A Flask app appears to be run with debug=True, which exposes the Werkzeug debugger and allows the execution of arbitrary code.
+selenium_parsers/facebook/groups_parser.py:192:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+selenium_parsers/facebook/pages_parser.py:199:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+selenium_parsers/facebook/utils/post.py:76:1: S110 Try, Except, Pass detected.
+selenium_parsers/worker/utils.py:32:1: S501 Requests call with verify=False disabling SSL certificate checks, security issue.
+selenium_parsers/worker/tasks_runer/executor.py:4:1: S404 Consider possible security implications associated with subprocess module.
+selenium_parsers/worker/tasks_runer/executor.py:34:1: S602 subprocess call with shell=True identified, security issue.
+selenium_parsers/utils/parsing.py:42:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+proxy_manager/commons.py:34:1: S107 Possible hardcoded password: ''
+proxy_manager/database.py:61:1: S608 Possible SQL injection vector through string-based query construction.
+proxy_manager/database.py:70:1: S608 Possible SQL injection vector through string-based query construction.
+proxy_manager/api.py:70:1: S201 A Flask app appears to be run with debug=True, which exposes the Werkzeug debugger and allows the execution of arbitrary code.

@@ -1,0 +1,1421 @@
+api/manage.py:7:1: D103 Missing docstring in public function
+api/manage.py:14:13: Q000 Remove bad quotes
+api/manage.py:15:13: Q000 Remove bad quotes
+api/gunicorn.conf.py:1:1: D100 Missing docstring in public module
+api/conftest.py:1:1: D100 Missing docstring in public module
+api/conftest.py:8:1: D103 Missing docstring in public function
+api/conftest.py:13:1: D103 Missing docstring in public function
+api/run_celery.py:1:1: D100 Missing docstring in public module
+api/core/__init__.py:1:1: D104 Missing docstring in public package
+api/core/celery.py:1:1: D100 Missing docstring in public module
+api/core/celery.py:17:30: PIE785: Celery tasks should have expirations.
+api/core/celery.py:17:30: PIE785: Celery tasks should have expirations.
+api/core/celery.py:17:30: PIE785: Celery tasks should have expirations.
+api/core/celery.py:17:30: PIE785: Celery tasks should have expirations.
+api/core/celery.py:24:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:24:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:24:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:24:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:31:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:31:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:31:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:31:33: PIE785: Celery tasks should have expirations.
+api/core/celery.py:38:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:38:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:38:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:38:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:45:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:45:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:45:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:45:37: PIE785: Celery tasks should have expirations.
+api/core/celery.py:52:38: PIE785: Celery tasks should have expirations.
+api/core/celery.py:52:38: PIE785: Celery tasks should have expirations.
+api/core/celery.py:52:38: PIE785: Celery tasks should have expirations.
+api/core/celery.py:52:38: PIE785: Celery tasks should have expirations.
+api/core/celery.py:59:31: PIE785: Celery tasks should have expirations.
+api/core/celery.py:59:31: PIE785: Celery tasks should have expirations.
+api/core/celery.py:59:31: PIE785: Celery tasks should have expirations.
+api/core/celery.py:59:31: PIE785: Celery tasks should have expirations.
+api/core/celery.py:66:36: PIE785: Celery tasks should have expirations.
+api/core/celery.py:66:36: PIE785: Celery tasks should have expirations.
+api/core/celery.py:66:36: PIE785: Celery tasks should have expirations.
+api/core/celery.py:66:36: PIE785: Celery tasks should have expirations.
+api/core/celery.py:80:2: PIE783: Celery tasks should have explicit names.
+api/core/celery.py:80:2: PIE783: Celery tasks should have explicit names.
+api/core/celery.py:80:2: PIE783: Celery tasks should have explicit names.
+api/core/celery.py:80:2: PIE783: Celery tasks should have explicit names.
+api/core/celery.py:81:1: D103 Missing docstring in public function
+api/core/urls.py:1:1: D100 Missing docstring in public module
+api/core/settings.py:35:1: S104 Possible binding to all interfaces.
+api/api/constants.py:1:1: D100 Missing docstring in public module
+api/api/tasks.py:1:1: D100 Missing docstring in public module
+api/api/tasks.py:39:17: Q000 Remove bad quotes
+api/api/tasks.py:44:1: D101 Missing docstring in public class
+api/api/tasks.py:48:1: D103 Missing docstring in public function
+api/api/tasks.py:55:1: D103 Missing docstring in public function
+api/api/tasks.py:79:1: D103 Missing docstring in public function
+api/api/tasks.py:86:13: PIE786: Use precise exception handlers.
+api/api/tasks.py:92:1: D103 Missing docstring in public function
+api/api/tasks.py:100:24: Q001 Remove bad quotes from multiline string
+api/api/tasks.py:107:9: PIE786: Use precise exception handlers.
+api/api/tasks.py:119:1: D103 Missing docstring in public function
+api/api/tasks.py:150:1: D103 Missing docstring in public function
+api/api/tasks.py:199:52: Q000 Remove bad quotes
+api/api/tasks.py:208:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:208:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:208:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:208:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:210:1: D103 Missing docstring in public function
+api/api/tasks.py:227:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:227:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:227:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:227:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:229:1: D103 Missing docstring in public function
+api/api/tasks.py:278:1: D103 Missing docstring in public function
+api/api/tasks.py:290:20: Q001 Remove bad quotes from multiline string
+api/api/tasks.py:381:48: Q000 Remove bad quotes
+api/api/tasks.py:391:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:391:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:391:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:391:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:393:1: D103 Missing docstring in public function
+api/api/tasks.py:430:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:430:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:430:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:430:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:432:1: D103 Missing docstring in public function
+api/api/tasks.py:459:9: PIE786: Use precise exception handlers.
+api/api/tasks.py:487:66: Q000 Remove bad quotes
+api/api/tasks.py:503:62: Q000 Remove bad quotes
+api/api/tasks.py:512:1: D103 Missing docstring in public function
+api/api/tasks.py:521:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:521:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:521:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:521:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:524:1: D103 Missing docstring in public function
+api/api/tasks.py:544:1: D103 Missing docstring in public function
+api/api/tasks.py:550:29: Q000 Remove bad quotes
+api/api/tasks.py:560:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:560:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:560:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:560:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:563:1: D103 Missing docstring in public function
+api/api/tasks.py:583:24: Q000 Remove bad quotes
+api/api/tasks.py:599:26: Q000 Remove bad quotes
+api/api/tasks.py:627:58: Q000 Remove bad quotes
+api/api/tasks.py:660:54: Q000 Remove bad quotes
+api/api/tasks.py:678:1: D205 1 blank line required between summary line and description
+api/api/tasks.py:678:1: D400 First line should end with a period
+api/api/tasks.py:691:24: Q000 Remove bad quotes
+api/api/tasks.py:694:17: Q000 Remove bad quotes
+api/api/tasks.py:694:25: Q000 Remove bad quotes
+api/api/tasks.py:694:37: Q000 Remove bad quotes
+api/api/tasks.py:695:17: Q000 Remove bad quotes
+api/api/tasks.py:695:27: Q000 Remove bad quotes
+api/api/tasks.py:695:37: Q000 Remove bad quotes
+api/api/tasks.py:696:17: Q000 Remove bad quotes
+api/api/tasks.py:696:30: Q000 Remove bad quotes
+api/api/tasks.py:696:40: Q000 Remove bad quotes
+api/api/tasks.py:697:17: Q000 Remove bad quotes
+api/api/tasks.py:697:27: Q000 Remove bad quotes
+api/api/tasks.py:697:37: Q000 Remove bad quotes
+api/api/tasks.py:698:17: Q000 Remove bad quotes
+api/api/tasks.py:698:30: Q000 Remove bad quotes
+api/api/tasks.py:698:40: Q000 Remove bad quotes
+api/api/tasks.py:699:17: Q000 Remove bad quotes
+api/api/tasks.py:699:31: Q000 Remove bad quotes
+api/api/tasks.py:699:41: Q000 Remove bad quotes
+api/api/tasks.py:702:17: Q000 Remove bad quotes
+api/api/tasks.py:703:17: Q000 Remove bad quotes
+api/api/tasks.py:703:27: Q000 Remove bad quotes
+api/api/tasks.py:703:35: Q000 Remove bad quotes
+api/api/tasks.py:704:17: Q000 Remove bad quotes
+api/api/tasks.py:704:30: Q000 Remove bad quotes
+api/api/tasks.py:704:38: Q000 Remove bad quotes
+api/api/tasks.py:705:17: Q000 Remove bad quotes
+api/api/tasks.py:705:27: Q000 Remove bad quotes
+api/api/tasks.py:705:35: Q000 Remove bad quotes
+api/api/tasks.py:706:17: Q000 Remove bad quotes
+api/api/tasks.py:706:30: Q000 Remove bad quotes
+api/api/tasks.py:706:38: Q000 Remove bad quotes
+api/api/tasks.py:707:17: Q000 Remove bad quotes
+api/api/tasks.py:707:31: Q000 Remove bad quotes
+api/api/tasks.py:707:39: Q000 Remove bad quotes
+api/api/tasks.py:720:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:720:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:720:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:720:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:722:1: D103 Missing docstring in public function
+api/api/tasks.py:732:26: Q000 Remove bad quotes
+api/api/tasks.py:740:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:740:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:740:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:740:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:742:1: D103 Missing docstring in public function
+api/api/tasks.py:770:17: PIE786: Use precise exception handlers.
+api/api/tasks.py:785:1: D103 Missing docstring in public function
+api/api/tasks.py:833:54: Q000 Remove bad quotes
+api/api/tasks.py:835:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:835:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:835:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:835:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:838:1: D103 Missing docstring in public function
+api/api/tasks.py:857:1: D103 Missing docstring in public function
+api/api/tasks.py:897:1: D103 Missing docstring in public function
+api/api/tasks.py:930:17: P101 format string does contain unindexed parameters
+api/api/tasks.py:955:54: Q000 Remove bad quotes
+api/api/tasks.py:957:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:957:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:957:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:957:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks.py:960:25: Q001 Remove bad quotes from multiline string
+api/api/tasks.py:974:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:974:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:974:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:974:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:976:1: D103 Missing docstring in public function
+api/api/tasks.py:991:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:991:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:991:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:991:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:993:1: D103 Missing docstring in public function
+api/api/tasks.py:1018:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1018:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1018:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1018:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1019:1: D103 Missing docstring in public function
+api/api/tasks.py:1034:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1034:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1034:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1034:2: PIE783: Celery tasks should have explicit names.
+api/api/tasks.py:1035:1: D103 Missing docstring in public function
+api/api/__init__.py:1:1: D104 Missing docstring in public package
+api/api/tasks_helpers.py:1:1: D100 Missing docstring in public module
+api/api/tasks_helpers.py:13:1: D103 Missing docstring in public function
+api/api/tasks_helpers.py:18:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks_helpers.py:18:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks_helpers.py:18:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks_helpers.py:18:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/tasks_helpers.py:21:1: D103 Missing docstring in public function
+api/api/admin.py:1:1: D100 Missing docstring in public module
+api/api/apps.py:1:1: D100 Missing docstring in public module
+api/api/apps.py:4:1: D101 Missing docstring in public class
+api/api/apps.py:7:1: D102 Missing docstring in public method
+api/api/views.py:1:1: D100 Missing docstring in public module
+api/api/views.py:8:2: E800 Found commented out code
+api/api/urls.py:1:1: D100 Missing docstring in public module
+api/api/models.py:1:1: D100 Missing docstring in public module
+api/api/models.py:11:1: D101 Missing docstring in public class
+api/api/models.py:20:1: D101 Missing docstring in public class
+api/api/models.py:35:1: D102 Missing docstring in public method
+api/api/models.py:49:1: D102 Missing docstring in public method
+api/api/models.py:51:14: Q000 Remove bad quotes
+api/api/models.py:51:25: Q000 Remove bad quotes
+api/api/models.py:51:34: Q000 Remove bad quotes
+api/api/models.py:52:14: Q000 Remove bad quotes
+api/api/models.py:52:24: Q000 Remove bad quotes
+api/api/models.py:53:14: Q000 Remove bad quotes
+api/api/models.py:54:17: Q000 Remove bad quotes
+api/api/models.py:54:24: Q000 Remove bad quotes
+api/api/models.py:55:17: Q000 Remove bad quotes
+api/api/models.py:55:26: Q000 Remove bad quotes
+api/api/models.py:56:17: Q000 Remove bad quotes
+api/api/models.py:56:37: Q000 Remove bad quotes
+api/api/models.py:57:17: Q000 Remove bad quotes
+api/api/models.py:57:27: Q000 Remove bad quotes
+api/api/models.py:58:17: Q000 Remove bad quotes
+api/api/models.py:58:27: Q000 Remove bad quotes
+api/api/models.py:59:17: Q000 Remove bad quotes
+api/api/models.py:59:30: Q000 Remove bad quotes
+api/api/models.py:60:17: Q000 Remove bad quotes
+api/api/models.py:60:30: Q000 Remove bad quotes
+api/api/models.py:61:17: Q000 Remove bad quotes
+api/api/models.py:61:29: Q000 Remove bad quotes
+api/api/models.py:62:17: Q000 Remove bad quotes
+api/api/models.py:62:27: Q000 Remove bad quotes
+api/api/models.py:63:17: Q000 Remove bad quotes
+api/api/models.py:63:24: Q000 Remove bad quotes
+api/api/models.py:64:17: Q000 Remove bad quotes
+api/api/models.py:64:30: Q000 Remove bad quotes
+api/api/models.py:69:1: D101 Missing docstring in public class
+api/api/models.py:77:1: D106 Missing docstring in public nested class
+api/api/models.py:78:1: D102 Missing docstring in public method
+api/api/models.py:79:34: P101 format string does contain unindexed parameters
+api/api/models.py:84:1: D101 Missing docstring in public class
+api/api/models.py:85:1: D102 Missing docstring in public method
+api/api/models.py:89:1: D101 Missing docstring in public class
+api/api/models.py:94:1: D101 Missing docstring in public class
+api/api/models.py:102:1: D102 Missing docstring in public method
+api/api/models.py:106:1: D101 Missing docstring in public class
+api/api/models.py:107:1: D106 Missing docstring in public nested class
+api/api/models.py:129:1: D101 Missing docstring in public class
+api/api/models.py:134:1: D101 Missing docstring in public class
+api/api/models.py:141:1: D101 Missing docstring in public class
+api/api/models.py:148:1: D101 Missing docstring in public class
+api/api/models.py:155:1: D101 Missing docstring in public class
+api/api/models.py:163:1: D101 Missing docstring in public class
+api/api/models.py:170:1: D101 Missing docstring in public class
+api/api/models.py:177:1: D101 Missing docstring in public class
+api/api/models.py:184:1: D101 Missing docstring in public class
+api/api/models.py:191:1: D101 Missing docstring in public class
+api/api/models.py:198:1: D101 Missing docstring in public class
+api/api/models.py:204:1: D102 Missing docstring in public method
+api/api/models.py:209:1: D101 Missing docstring in public class
+api/api/models.py:210:1: D106 Missing docstring in public nested class
+api/api/models.py:230:1: D105 Missing docstring in magic method
+api/api/models.py:234:1: D101 Missing docstring in public class
+api/api/models.py:235:1: D106 Missing docstring in public nested class
+api/api/models.py:253:1: D105 Missing docstring in magic method
+api/api/models.py:257:1: D101 Missing docstring in public class
+api/api/models.py:258:1: D106 Missing docstring in public nested class
+api/api/models.py:263:29: Q000 Remove bad quotes
+api/api/models.py:263:35: Q000 Remove bad quotes
+api/api/models.py:263:43: Q000 Remove bad quotes
+api/api/models.py:278:1: D105 Missing docstring in magic method
+api/api/mixins.py:1:1: D100 Missing docstring in public module
+api/api/mixins.py:9:1: D103 Missing docstring in public function
+api/api/mixins.py:13:1: D101 Missing docstring in public class
+api/api/mixins.py:16:1: D102 Missing docstring in public method
+api/api/mixins.py:22:1: D101 Missing docstring in public class
+api/api/mixins.py:24:1: D102 Missing docstring in public method
+api/api/mixins.py:27:1: D102 Missing docstring in public method
+api/api/mixins.py:30:1: D102 Missing docstring in public method
+api/api/mixins.py:39:9: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/mixins.py:39:9: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/mixins.py:39:9: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/mixins.py:39:9: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/mixins.py:42:1: D102 Missing docstring in public method
+api/api/serializers.py:1:1: D100 Missing docstring in public module
+api/api/serializers.py:7:1: D101 Missing docstring in public class
+api/api/serializers.py:8:1: D106 Missing docstring in public nested class
+api/api/serializers.py:13:1: D101 Missing docstring in public class
+api/api/serializers.py:14:1: D106 Missing docstring in public nested class
+api/api/serializers.py:19:1: D101 Missing docstring in public class
+api/api/serializers.py:20:1: D106 Missing docstring in public nested class
+api/api/serializers.py:25:1: D101 Missing docstring in public class
+api/api/serializers.py:26:1: D106 Missing docstring in public nested class
+api/api/serializers.py:31:1: D101 Missing docstring in public class
+api/api/serializers.py:32:1: D106 Missing docstring in public nested class
+api/api/serializers.py:37:1: D101 Missing docstring in public class
+api/api/serializers.py:38:1: D106 Missing docstring in public nested class
+api/api/serializers.py:43:1: D101 Missing docstring in public class
+api/api/serializers.py:44:1: D106 Missing docstring in public nested class
+api/api/serializers.py:49:1: D101 Missing docstring in public class
+api/api/serializers.py:50:1: D106 Missing docstring in public nested class
+api/api/serializers.py:55:1: D101 Missing docstring in public class
+api/api/serializers.py:56:1: D106 Missing docstring in public nested class
+api/api/serializers.py:61:1: D101 Missing docstring in public class
+api/api/serializers.py:62:1: D106 Missing docstring in public nested class
+api/api/serializers.py:67:1: D101 Missing docstring in public class
+api/api/serializers.py:68:1: D106 Missing docstring in public nested class
+api/api/utils.py:1:1: D100 Missing docstring in public module
+api/api/utils.py:8:1: D101 Missing docstring in public class
+api/api/utils.py:9:1: D102 Missing docstring in public method
+api/api/utils.py:17:1: D103 Missing docstring in public function
+api/api/utils.py:32:1: D103 Missing docstring in public function
+api/api/utils.py:42:21: P101 format string does contain unindexed parameters
+api/api/utils.py:45:21: P101 format string does contain unindexed parameters
+api/api/utils.py:51:1: D205 1 blank line required between summary line and description
+api/api/utils.py:51:1: D400 First line should end with a period
+api/api/api_views/__init__.py:1:1: D104 Missing docstring in public package
+api/api/api_views/permissions.py:1:1: D100 Missing docstring in public module
+api/api/api_views/permissions.py:11:1: D205 1 blank line required between summary line and description
+api/api/api_views/permissions.py:11:1: D401 First line should be in imperative mood
+api/api/api_views/permissions.py:21:42: Q000 Remove bad quotes
+api/api/api_views/permissions.py:27:1: D205 1 blank line required between summary line and description
+api/api/api_views/permissions.py:27:1: D401 First line should be in imperative mood; try rephrasing
+api/api/api_views/permissions.py:38:1: D205 1 blank line required between summary line and description
+api/api/api_views/permissions.py:38:1: D400 First line should end with a period
+api/api/api_views/permissions.py:38:1: D401 First line should be in imperative mood
+api/api/api_views/permissions.py:56:1: D101 Missing docstring in public class
+api/api/api_views/permissions.py:57:1: D102 Missing docstring in public method
+api/api/api_views/facebook/__init__.py:1:1: D104 Missing docstring in public package
+api/api/api_views/facebook/statistic_view.py:1:1: D100 Missing docstring in public module
+api/api/api_views/facebook/statistic_view.py:13:1: D101 Missing docstring in public class
+api/api/api_views/facebook/statistic_view.py:14:1: D102 Missing docstring in public method
+api/api/api_views/facebook/statistic_view.py:122:1: D101 Missing docstring in public class
+api/api/api_views/facebook/statistic_view.py:123:1: D102 Missing docstring in public method
+api/api/api_views/other/compare_helper.py:1:1: D100 Missing docstring in public module
+api/api/api_views/other/compare_helper.py:19:1: F401 '...serializers.UserTokenSerializer' imported but unused
+api/api/api_views/other/compare_helper.py:38:1: E302 expected 2 blank lines, found 1
+api/api/api_views/other/compare_helper.py:38:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:41:1: D201 No blank lines allowed before function docstring
+api/api/api_views/other/compare_helper.py:41:1: D205 1 blank line required between summary line and description
+api/api/api_views/other/compare_helper.py:41:1: D300 Use """triple double quotes"""
+api/api/api_views/other/compare_helper.py:41:1: D400 First line should end with a period
+api/api/api_views/other/compare_helper.py:41:9: Q002 Remove bad quotes from docstring
+api/api/api_views/other/compare_helper.py:63:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:87:28: P103 other string does contain unindexed parameters
+api/api/api_views/other/compare_helper.py:93:9: PIE786: Use precise exception handlers.
+api/api/api_views/other/compare_helper.py:122:1: E302 expected 2 blank lines, found 1
+api/api/api_views/other/compare_helper.py:123:1: C901 'parse_ok' is too complex (15)
+api/api/api_views/other/compare_helper.py:123:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:146:28: Q001 Remove bad quotes from multiline string
+api/api/api_views/other/compare_helper.py:150:29: F821 undefined name 'ok_user'
+api/api/api_views/other/compare_helper.py:180:29: F821 undefined name 'ok_user'
+api/api/api_views/other/compare_helper.py:209:24: Q001 Remove bad quotes from multiline string
+api/api/api_views/other/compare_helper.py:214:25: F821 undefined name 'ok_user'
+api/api/api_views/other/compare_helper.py:257:28: P103 other string does contain unindexed parameters
+api/api/api_views/other/compare_helper.py:265:9: PIE786: Use precise exception handlers.
+api/api/api_views/other/compare_helper.py:288:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:294:27: Q000 Remove bad quotes
+api/api/api_views/other/compare_helper.py:299:5: PIE786: Use precise exception handlers.
+api/api/api_views/other/compare_helper.py:310:15: W291 trailing whitespace
+api/api/api_views/other/compare_helper.py:319:120: E501 line too long (120 > 119 characters)
+api/api/api_views/other/compare_helper.py:324:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:332:5: PIE786: Use precise exception handlers.
+api/api/api_views/other/compare_helper.py:334:22: F541 f-string is missing placeholders
+api/api/api_views/other/compare_helper.py:376:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:403:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:407:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:430:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:435:1: S501 Requests call with verify=False disabling SSL certificate checks, security issue.
+api/api/api_views/other/compare_helper.py:447:1: D200 One-line docstring should fit on one line with quotes
+api/api/api_views/other/compare_helper.py:447:1: D400 First line should end with a period
+api/api/api_views/other/compare_helper.py:470:1: D103 Missing docstring in public function
+api/api/api_views/other/compare_helper.py:474:62: Q000 Remove bad quotes
+api/api/api_views/other/compare_helper.py:480:68: Q000 Remove bad quotes
+api/api/api_views/other/compare_helper.py:483:18: F541 f-string is missing placeholders
+api/api/api_views/other/service_map.py:1:1: D100 Missing docstring in public module
+api/api/api_views/other/service_map.py:2:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:3:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:4:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:5:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:6:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:7:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:8:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:9:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:10:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:11:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:12:1: W191 indentation contains tabs
+api/api/api_views/other/service_map.py:13:1: W191 indentation contains tabs
+api/api/api_views/other/crow.py:1:1: D100 Missing docstring in public module
+api/api/api_views/other/crow.py:11:1: F401 '.utils.handle_social_links' imported but unused
+api/api/api_views/other/crow.py:17:1: F401 '...tasks.crow_check_status' imported but unused
+api/api/api_views/other/crow.py:21:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:23:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:36:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:39:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:50:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:55:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:75:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:79:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:102:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:107:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:140:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:143:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:163:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:165:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:171:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:173:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:178:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:180:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:181:19: C416 Unnecessary list comprehension - rewrite using list().
+api/api/api_views/other/crow.py:195:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:199:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:224:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:227:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:258:1: D102 Missing docstring in public method
+api/api/api_views/other/crow.py:286:1: D101 Missing docstring in public class
+api/api/api_views/other/crow.py:289:1: D102 Missing docstring in public method
+api/api/api_views/other/compare.py:1:1: D100 Missing docstring in public module
+api/api/api_views/other/compare.py:14:1: D101 Missing docstring in public class
+api/api/api_views/other/compare.py:15:1: D102 Missing docstring in public method
+api/api/api_views/other/compare.py:30:1: D101 Missing docstring in public class
+api/api/api_views/other/compare.py:31:1: D102 Missing docstring in public method
+api/api/api_views/other/utils.py:1:1: D100 Missing docstring in public module
+api/api/api_views/other/utils.py:22:1: D103 Missing docstring in public function
+api/api/api_views/other/utils.py:74:9: PIE786: Use precise exception handlers.
+api/api/api_views/other/utils.py:86:1: D103 Missing docstring in public function
+api/api/api_views/other/utils.py:101:1: D103 Missing docstring in public function
+api/api/api_views/other/utils.py:116:1: D103 Missing docstring in public function
+api/api/api_views/other/utils.py:123:1: D103 Missing docstring in public function
+api/api/api_views/other/utils.py:127:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/other/utils.py:127:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/other/utils.py:127:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/other/utils.py:127:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/other/utils.py:130:1: D103 Missing docstring in public function
+api/api/api_views/other/utils.py:133:1: E302 expected 2 blank lines, found 1
+api/api/api_views/other/utils.py:133:1: D103 Missing docstring in public function
+api/api/api_views/other/utils.py:136:10: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:136:21: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:136:33: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:137:10: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:137:20: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:138:10: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:139:13: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:139:20: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:140:13: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:140:29: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:140:39: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:140:48: Q000 Remove bad quotes
+api/api/api_views/other/utils.py:155:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/other/utils.py:155:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/other/utils.py:155:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/other/utils.py:155:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+api/api/api_views/main/__init__.py:1:1: D104 Missing docstring in public package
+api/api/api_views/main/logs.py:1:1: D100 Missing docstring in public module
+api/api/api_views/main/logs.py:9:1: E303 too many blank lines (3)
+api/api/api_views/main/logs.py:9:1: D101 Missing docstring in public class
+api/api/api_views/main/logs.py:10:1: D102 Missing docstring in public method
+api/api/api_views/main/logs.py:13:23: W291 trailing whitespace
+api/api/api_views/main/profile.py:1:1: D100 Missing docstring in public module
+api/api/api_views/main/profile.py:24:1: S105 Possible hardcoded password: 'https://api.instagram.com/oauth/access_token'
+api/api/api_views/main/profile.py:35:1: S105 Possible hardcoded password: '22b1f3f3-37a0-4841-93bd-67092d50b570'
+api/api/api_views/main/profile.py:38:1: D103 Missing docstring in public function
+api/api/api_views/main/profile.py:55:1: D103 Missing docstring in public function
+api/api/api_views/main/profile.py:76:1: D103 Missing docstring in public function
+api/api/api_views/main/profile.py:85:1: D103 Missing docstring in public function
+api/api/api_views/main/profile.py:99:1: D103 Missing docstring in public function
+api/api/api_views/main/profile.py:161:1: D101 Missing docstring in public class
+api/api/api_views/main/profile.py:162:1: D102 Missing docstring in public method
+api/api/api_views/main/profile.py:192:1: D102 Missing docstring in public method
+api/api/api_views/main/profile.py:192:5: C901 'GetUsers.post' is too complex (15)
+api/api/api_views/main/profile.py:281:1: D101 Missing docstring in public class
+api/api/api_views/main/profile.py:282:1: D102 Missing docstring in public method
+api/api/api_views/main/profile.py:284:14: C408 Unnecessary list call - rewrite as a literal.
+api/api/api_views/main/profile.py:302:1: D102 Missing docstring in public method
+api/api/api_views/main/profile.py:326:1: D101 Missing docstring in public class
+api/api/api_views/main/profile.py:327:1: D102 Missing docstring in public method
+api/api/api_views/main/receivers.py:1:1: D100 Missing docstring in public module
+api/api/api_views/main/receivers.py:16:1: D103 Missing docstring in public function
+api/api/api_views/main/receivers.py:39:1: D103 Missing docstring in public function
+api/api/api_views/main/receivers.py:49:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:1:1: D100 Missing docstring in public module
+api/api/api_views/main/dashboard.py:9:1: F401 '.services_decloration.tg_channel_service' imported but unused
+api/api/api_views/main/dashboard.py:13:1: F401 '...models.TgChannels' imported but unused
+api/api/api_views/main/dashboard.py:24:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:58:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:136:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:215:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:249:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:299:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:329:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:333:14: Q000 Remove bad quotes
+api/api/api_views/main/dashboard.py:336:18: B305 `.next()` is not a thing on Python 3. Use the `next()` builtin. For Python 2 compatibility, use `six.next()`.
+api/api/api_views/main/dashboard.py:376:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:406:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:458:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:468:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:474:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:480:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:486:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:492:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:498:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:504:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:514:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:530:41: E711 comparison to None should be 'if cond is None:'
+api/api/api_views/main/dashboard.py:538:1: D103 Missing docstring in public function
+api/api/api_views/main/dashboard.py:552:1: D101 Missing docstring in public class
+api/api/api_views/main/dashboard.py:553:1: D102 Missing docstring in public method
+api/api/api_views/main/dashboard.py:578:120: E501 line too long (126 > 119 characters)
+api/api/api_views/main/dashboard.py:583:1: D101 Missing docstring in public class
+api/api/api_views/main/dashboard.py:584:1: D102 Missing docstring in public method
+api/api/api_views/main/dashboard.py:610:1: D101 Missing docstring in public class
+api/api/api_views/main/dashboard.py:611:1: D102 Missing docstring in public method
+api/api/api_views/main/dashboard.py:660:1: D101 Missing docstring in public class
+api/api/api_views/main/dashboard.py:661:1: D102 Missing docstring in public method
+api/api/api_views/main/services_decloration.py:1:1: D100 Missing docstring in public module
+api/api/api_views/main/services_decloration.py:1:120: E501 line too long (120 > 119 characters)
+api/api/api_views/main/tg_auth.py:1:1: D100 Missing docstring in public module
+api/api/api_views/main/tg_auth.py:1:1: F401 'django.http.HttpResponse' imported but unused
+api/api/api_views/main/tg_auth.py:2:1: F401 'django.shortcuts.render' imported but unused
+api/api/api_views/main/tg_auth.py:3:1: F401 'django.contrib.auth.models.User' imported but unused
+api/api/api_views/main/tg_auth.py:3:1: F401 'django.contrib.auth.models.Group' imported but unused
+api/api/api_views/main/tg_auth.py:7:1: F401 'rest_framework.viewsets' imported but unused
+api/api/api_views/main/tg_auth.py:11:1: F401 '...serializers.UserTokenSerializer' imported but unused
+api/api/api_views/main/tg_auth.py:12:1: F401 '...models.Profile' imported but unused
+api/api/api_views/main/tg_auth.py:12:1: F401 '...models.Pubs' imported but unused
+api/api/api_views/main/tg_auth.py:14:1: F401 'vk_api' imported but unused
+api/api/api_views/main/tg_auth.py:15:1: F401 'requests' imported but unused
+api/api/api_views/main/tg_auth.py:16:1: F401 'json' imported but unused
+api/api/api_views/main/tg_auth.py:18:1: F401 'datetime' imported but unused
+api/api/api_views/main/tg_auth.py:22:1: F811 redefinition of unused 'settings' from line 5
+api/api/api_views/main/tg_auth.py:29:1: E265 block comment should start with '# '
+api/api/api_views/main/tg_auth.py:29:2: E800 Found commented out code
+api/api/api_views/main/tg_auth.py:32:1: D101 Missing docstring in public class
+api/api/api_views/main/tg_auth.py:34:1: D102 Missing docstring in public method
+api/api/api_views/main/tg_auth.py:44:1: W391 blank line at end of file
+api/api/api_views/vk/__init__.py:1:1: D104 Missing docstring in public package
+api/api/api_views/vk/analyze.py:1:1: D100 Missing docstring in public module
+api/api/api_views/vk/analyze.py:20:1: D101 Missing docstring in public class
+api/api/api_views/vk/analyze.py:21:1: D102 Missing docstring in public method
+api/api/api_views/vk/analyze.py:97:120: E501 line too long (121 > 119 characters)
+api/api/api_views/vk/analyze.py:113:1: D101 Missing docstring in public class
+api/api/api_views/vk/analyze.py:114:1: D102 Missing docstring in public method
+api/api/api_views/vk/stories.py:1:1: D100 Missing docstring in public module
+api/api/api_views/vk/stories.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/stories.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/stories.py:8:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/stories.py:9:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/stories.py:26:1: E303 too many blank lines (3)
+api/api/api_views/vk/stories.py:26:1: D101 Missing docstring in public class
+api/api/api_views/vk/stories.py:27:1: D102 Missing docstring in public method
+api/api/api_views/vk/stories.py:27:5: C901 'GetStories.get' is too complex (13)
+api/api/api_views/vk/stories.py:43:9: F841 local variable 'stories' is assigned to but never used
+api/api/api_views/vk/stories.py:73:28: W291 trailing whitespace
+api/api/api_views/vk/stories.py:75:36: W291 trailing whitespace
+api/api/api_views/vk/stories.py:87:9: F841 local variable 'timestamp_from' is assigned to but never used
+api/api/api_views/vk/stories.py:88:9: F841 local variable 'timestamp_to' is assigned to but never used
+api/api/api_views/vk/stories.py:92:24: C408 Unnecessary dict call - rewrite as a literal.
+api/api/api_views/vk/stories.py:106:34: F821 undefined name 'i'
+api/api/api_views/vk/stories.py:106:35: E211 whitespace before '['
+api/api/api_views/vk/stories.py:124:40: W291 trailing whitespace
+api/api/api_views/vk/stories.py:142:13: F841 local variable 'interactions_in_this_month' is assigned to but never used
+api/api/api_views/vk/stories.py:155:1: E303 too many blank lines (3)
+api/api/api_views/vk/stories.py:155:1: D103 Missing docstring in public function
+api/api/api_views/vk/stories.py:158:1: W391 blank line at end of file
+api/api/api_views/vk/posts.py:1:1: D100 Missing docstring in public module
+api/api/api_views/vk/posts.py:21:34: Q000 Remove bad quotes
+api/api/api_views/vk/posts.py:21:76: Q000 Remove bad quotes
+api/api/api_views/vk/posts.py:24:1: D103 Missing docstring in public function
+api/api/api_views/vk/posts.py:40:1: D101 Missing docstring in public class
+api/api/api_views/vk/posts.py:41:1: D102 Missing docstring in public method
+api/api/api_views/vk/posts.py:120:1: D101 Missing docstring in public class
+api/api/api_views/vk/posts.py:121:1: D102 Missing docstring in public method
+api/api/api_views/vk/posts.py:226:1: D101 Missing docstring in public class
+api/api/api_views/vk/posts.py:228:1: D102 Missing docstring in public method
+api/api/api_views/vk/posts.py:231:1: D102 Missing docstring in public method
+api/api/api_views/vk/posts.py:237:1: D102 Missing docstring in public method
+api/api/api_views/vk/posts.py:243:41: C416 Unnecessary list comprehension - rewrite using list().
+api/api/api_views/vk/reach.py:1:1: D100 Missing docstring in public module
+api/api/api_views/vk/reach.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/reach.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/reach.py:8:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/reach.py:9:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/reach.py:26:1: E303 too many blank lines (3)
+api/api/api_views/vk/reach.py:26:1: D101 Missing docstring in public class
+api/api/api_views/vk/reach.py:27:1: D102 Missing docstring in public method
+api/api/api_views/vk/reach.py:27:5: C901 'GetReach.get' is too complex (15)
+api/api/api_views/vk/reach.py:75:28: W291 trailing whitespace
+api/api/api_views/vk/reach.py:77:36: W291 trailing whitespace
+api/api/api_views/vk/reach.py:95:17: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/reach.py:106:17: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/reach.py:139:120: E501 line too long (120 > 119 characters)
+api/api/api_views/vk/reach.py:176:1: D103 Missing docstring in public function
+api/api/api_views/vk/audience.py:1:1: D100 Missing docstring in public module
+api/api/api_views/vk/audience.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/audience.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/audience.py:7:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/audience.py:8:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/audience.py:25:1: E303 too many blank lines (3)
+api/api/api_views/vk/audience.py:25:1: D101 Missing docstring in public class
+api/api/api_views/vk/audience.py:26:1: D102 Missing docstring in public method
+api/api/api_views/vk/audience.py:64:20: E251 unexpected spaces around keyword / parameter equals
+api/api/api_views/vk/audience.py:80:22: W291 trailing whitespace
+api/api/api_views/vk/video.py:1:1: D100 Missing docstring in public module
+api/api/api_views/vk/video.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/video.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/video.py:8:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/video.py:27:1: E303 too many blank lines (3)
+api/api/api_views/vk/video.py:27:1: D101 Missing docstring in public class
+api/api/api_views/vk/video.py:28:1: D102 Missing docstring in public method
+api/api/api_views/vk/video.py:28:5: C901 'GetVideos.get' is too complex (16)
+api/api/api_views/vk/video.py:50:9: F841 local variable 'posts_ids' is assigned to but never used
+api/api/api_views/vk/video.py:51:9: F841 local variable 'posts' is assigned to but never used
+api/api/api_views/vk/video.py:52:9: F841 local variable 'clear_posts' is assigned to but never used
+api/api/api_views/vk/video.py:55:9: F841 local variable 'vk_collection' is assigned to but never used
+api/api/api_views/vk/video.py:78:9: F841 local variable 'timestamp_from' is assigned to but never used
+api/api/api_views/vk/video.py:79:9: F841 local variable 'timestamp_to' is assigned to but never used
+api/api/api_views/vk/video.py:85:24: E251 unexpected spaces around keyword / parameter equals
+api/api/api_views/vk/video.py:118:20: C408 Unnecessary dict call - rewrite as a literal.
+api/api/api_views/vk/video.py:163:1: W293 blank line contains whitespace
+api/api/api_views/vk/video.py:177:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:179:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:181:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:183:13: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/video.py:195:1: E303 too many blank lines (3)
+api/api/api_views/vk/video.py:195:1: D103 Missing docstring in public function
+api/api/api_views/vk/video.py:198:1: W391 blank line at end of file
+api/api/api_views/vk/engagement.py:1:1: D100 Missing docstring in public module
+api/api/api_views/vk/engagement.py:2:1: F401 'time' imported but unused
+api/api/api_views/vk/engagement.py:3:1: F401 'pytz' imported but unused
+api/api/api_views/vk/engagement.py:9:1: F401 'vk_api' imported but unused
+api/api/api_views/vk/engagement.py:10:1: F401 'vk_api.tools.VkTools' imported but unused
+api/api/api_views/vk/engagement.py:27:1: E303 too many blank lines (3)
+api/api/api_views/vk/engagement.py:27:1: D101 Missing docstring in public class
+api/api/api_views/vk/engagement.py:28:1: D102 Missing docstring in public method
+api/api/api_views/vk/engagement.py:51:9: F841 local variable 'posts' is assigned to but never used
+api/api/api_views/vk/engagement.py:81:28: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:83:36: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:162:1: E303 too many blank lines (3)
+api/api/api_views/vk/engagement.py:162:1: D103 Missing docstring in public function
+api/api/api_views/vk/engagement.py:168:1: E303 too many blank lines (3)
+api/api/api_views/vk/engagement.py:168:1: D101 Missing docstring in public class
+api/api/api_views/vk/engagement.py:169:1: D102 Missing docstring in public method
+api/api/api_views/vk/engagement.py:169:5: C901 'GetPrimeTime.get' is too complex (21)
+api/api/api_views/vk/engagement.py:174:9: F841 local variable 'posts' is assigned to but never used
+api/api/api_views/vk/engagement.py:177:120: E501 line too long (181 > 119 characters)
+api/api/api_views/vk/engagement.py:177:182: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:178:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:178:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:178:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:179:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:179:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:179:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:180:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:180:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:180:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:181:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:181:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:181:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:182:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:182:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:182:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:183:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:183:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:183:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:184:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:184:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:184:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:185:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:185:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:185:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:186:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:186:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:186:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:187:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:187:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:187:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:188:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:188:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:188:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:189:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:189:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:189:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:190:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:190:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:190:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:191:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:191:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:191:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:192:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:192:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:192:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:193:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:193:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:193:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:194:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:194:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:194:156: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:195:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:195:120: E501 line too long (173 > 119 characters)
+api/api/api_views/vk/engagement.py:195:174: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:196:9: E128 continuation line under-indented for visual indent
+api/api/api_views/vk/engagement.py:196:120: E501 line too long (194 > 119 characters)
+api/api/api_views/vk/engagement.py:196:195: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:197:9: E122 continuation line missing indentation or outdented
+api/api/api_views/vk/engagement.py:197:120: E501 line too long (155 > 119 characters)
+api/api/api_views/vk/engagement.py:200:9: E303 too many blank lines (2)
+api/api/api_views/vk/engagement.py:228:36: W291 trailing whitespace
+api/api/api_views/vk/engagement.py:254:1: W293 blank line contains whitespace
+api/api/api_views/vk/engagement.py:266:1: W293 blank line contains whitespace
+api/api/api_views/tiktok/__init__.py:1:1: D104 Missing docstring in public package
+api/api/api_views/tiktok/posts_tiktok.py:1:1: D100 Missing docstring in public module
+api/api/api_views/tiktok/posts_tiktok.py:12:1: D101 Missing docstring in public class
+api/api/api_views/tiktok/posts_tiktok.py:13:1: D102 Missing docstring in public method
+api/api/api_views/tiktok/analyze_tiktok.py:1:1: D100 Missing docstring in public module
+api/api/api_views/tiktok/analyze_tiktok.py:15:1: D101 Missing docstring in public class
+api/api/api_views/tiktok/analyze_tiktok.py:16:1: D102 Missing docstring in public method
+api/api/api_views/tiktok/analyze_tiktok.py:103:52: Q000 Remove bad quotes
+api/api/api_views/yt/videos_yt.py:1:1: D100 Missing docstring in public module
+api/api/api_views/yt/videos_yt.py:13:1: D101 Missing docstring in public class
+api/api/api_views/yt/videos_yt.py:14:1: D102 Missing docstring in public method
+api/api/api_views/yt/videos_yt.py:55:23: C416 Unnecessary list comprehension - rewrite using list().
+api/api/api_views/yt/analyze_yt.py:1:1: D100 Missing docstring in public module
+api/api/api_views/yt/analyze_yt.py:13:1: D101 Missing docstring in public class
+api/api/api_views/yt/analyze_yt.py:14:1: D102 Missing docstring in public method
+api/api/api_views/yt/analyze_yt.py:54:50: Q000 Remove bad quotes
+api/api/api_views/yt/analyze_yt.py:87:1: D103 Missing docstring in public function
+api/api/api_views/tg/__init__.py:1:1: D104 Missing docstring in public package
+api/api/api_views/tg/analyze_tg.py:1:1: D100 Missing docstring in public module
+api/api/api_views/tg/analyze_tg.py:15:1: D101 Missing docstring in public class
+api/api/api_views/tg/analyze_tg.py:16:1: D102 Missing docstring in public method
+api/api/api_views/ok/__init__.py:1:1: D104 Missing docstring in public package
+api/api/api_views/ok/reach_ok.py:1:1: D100 Missing docstring in public module
+api/api/api_views/ok/reach_ok.py:9:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/reach_ok.py:18:1: E303 too many blank lines (3)
+api/api/api_views/ok/reach_ok.py:18:1: D101 Missing docstring in public class
+api/api/api_views/ok/reach_ok.py:19:1: D102 Missing docstring in public method
+api/api/api_views/ok/reach_ok.py:19:5: C901 'OkGetReach.get' is too complex (13)
+api/api/api_views/ok/reach_ok.py:119:9: E303 too many blank lines (2)
+api/api/api_views/ok/reach_ok.py:135:107: W291 trailing whitespace
+api/api/api_views/ok/reach_ok.py:150:1: E303 too many blank lines (4)
+api/api/api_views/ok/reach_ok.py:150:1: D103 Missing docstring in public function
+api/api/api_views/ok/posts_ok.py:1:1: D100 Missing docstring in public module
+api/api/api_views/ok/posts_ok.py:11:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/posts_ok.py:19:1: D101 Missing docstring in public class
+api/api/api_views/ok/posts_ok.py:20:1: D102 Missing docstring in public method
+api/api/api_views/ok/posts_ok.py:113:1: D101 Missing docstring in public class
+api/api/api_views/ok/posts_ok.py:114:1: D102 Missing docstring in public method
+api/api/api_views/ok/analyze_ok.py:1:1: D100 Missing docstring in public module
+api/api/api_views/ok/analyze_ok.py:18:1: D101 Missing docstring in public class
+api/api/api_views/ok/analyze_ok.py:19:1: D102 Missing docstring in public method
+api/api/api_views/ok/analyze_ok.py:145:1: D103 Missing docstring in public function
+api/api/api_views/ok/analyze_ok.py:156:1: D103 Missing docstring in public function
+api/api/api_views/ok/analyze_ok.py:180:1: D103 Missing docstring in public function
+api/api/api_views/ok/audience_ok.py:1:1: D100 Missing docstring in public module
+api/api/api_views/ok/audience_ok.py:8:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/audience_ok.py:17:1: E303 too many blank lines (3)
+api/api/api_views/ok/audience_ok.py:17:1: D101 Missing docstring in public class
+api/api/api_views/ok/audience_ok.py:18:1: D102 Missing docstring in public method
+api/api/api_views/ok/audience_ok.py:18:5: C901 'OkGetAudienceStat.get' is too complex (26)
+api/api/api_views/ok/audience_ok.py:95:24: Q001 Remove bad quotes from multiline string
+api/api/api_views/ok/engagement_ok.py:1:1: D100 Missing docstring in public module
+api/api/api_views/ok/engagement_ok.py:10:1: F401 'django.conf.settings' imported but unused
+api/api/api_views/ok/engagement_ok.py:19:1: E303 too many blank lines (3)
+api/api/api_views/ok/engagement_ok.py:19:1: D101 Missing docstring in public class
+api/api/api_views/ok/engagement_ok.py:20:1: D102 Missing docstring in public method
+api/api/api_views/ok/engagement_ok.py:20:5: C901 'OkGetEngagementRates.get' is too complex (11)
+api/api/api_views/ok/engagement_ok.py:148:9: E303 too many blank lines (2)
+api/api/api_views/ok/engagement_ok.py:187:13: E303 too many blank lines (2)
+api/api/api_views/ok/engagement_ok.py:203:9: E303 too many blank lines (2)
+api/api/api_views/ok/engagement_ok.py:222:13: E123 closing bracket does not match indentation of opening bracket's line
+api/api/api_views/ok/engagement_ok.py:226:13: E123 closing bracket does not match indentation of opening bracket's line
+api/api/api_views/ok/engagement_ok.py:248:1: E303 too many blank lines (4)
+api/api/api_views/ok/engagement_ok.py:248:1: D103 Missing docstring in public function
+api/api/api_views/insta/analyze_insta.py:1:1: D100 Missing docstring in public module
+api/api/api_views/insta/analyze_insta.py:9:2: E800 Found commented out code
+api/api/api_views/insta/analyze_insta.py:16:1: D101 Missing docstring in public class
+api/api/api_views/insta/analyze_insta.py:17:1: D102 Missing docstring in public method
+api/api/api_views/insta/analyze_insta.py:25:62: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:26:58: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:42:49: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:60:1: D101 Missing docstring in public class
+api/api/api_views/insta/analyze_insta.py:61:1: D102 Missing docstring in public method
+api/api/api_views/insta/analyze_insta.py:75:25: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:77:24: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:80:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:80:25: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:80:37: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:81:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:81:29: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:81:39: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:82:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:82:31: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:82:41: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:83:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:83:26: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:83:36: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:84:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:84:33: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:84:43: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:85:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:85:35: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:85:45: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:86:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:86:26: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:86:36: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:88:24: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:93:66: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:94:62: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:95:56: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:112:1: D101 Missing docstring in public class
+api/api/api_views/insta/analyze_insta.py:113:1: D102 Missing docstring in public method
+api/api/api_views/insta/analyze_insta.py:118:62: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:119:58: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:123:25: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:125:24: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:127:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:128:21: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:128:30: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:128:39: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:129:21: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:129:31: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:129:41: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:130:21: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:130:29: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:130:44: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:132:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:132:26: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:132:36: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:133:17: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:133:36: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:133:46: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:135:24: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:138:56: Q000 Remove bad quotes
+api/api/api_views/insta/analyze_insta.py:138:87: Q000 Remove bad quotes
+api/api/api_views/zen/posts_zen.py:1:1: D100 Missing docstring in public module
+api/api/api_views/zen/posts_zen.py:14:1: D101 Missing docstring in public class
+api/api/api_views/zen/posts_zen.py:15:1: D102 Missing docstring in public method
+api/api/api_views/zen/posts_zen.py:95:1: D101 Missing docstring in public class
+api/api/api_views/zen/posts_zen.py:97:1: D102 Missing docstring in public method
+api/api/api_views/zen/posts_zen.py:100:1: D102 Missing docstring in public method
+api/api/api_views/zen/posts_zen.py:106:1: D102 Missing docstring in public method
+api/api/api_views/zen/posts_zen.py:112:41: C416 Unnecessary list comprehension - rewrite using list().
+api/api/api_views/zen/analyze_zen.py:1:1: D100 Missing docstring in public module
+api/api/api_views/zen/analyze_zen.py:17:1: D101 Missing docstring in public class
+api/api/api_views/zen/analyze_zen.py:18:1: D102 Missing docstring in public method
+api/api/migrations/0021_department.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0021_department.py:7:1: D101 Missing docstring in public class
+api/api/migrations/0001_initial.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0001_initial.py:9:1: D101 Missing docstring in public class
+api/api/migrations/__init__.py:1:1: D104 Missing docstring in public package
+api/api/migrations/0012_proxy.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0012_proxy.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0006_facebookaccounts.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0006_facebookaccounts.py:7:1: D101 Missing docstring in public class
+api/api/migrations/0006_facebookaccounts.py:43:99: C819 trailing comma prohibited
+api/api/migrations/0016_tglinks.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0016_tglinks.py:8:1: D101 Missing docstring in public class
+api/api/migrations/0016_tglinks.py:21:120: E501 line too long (151 > 119 characters)
+api/api/migrations/0002_facebookpage.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0002_facebookpage.py:8:1: D101 Missing docstring in public class
+api/api/migrations/0011_auto_20200811_2017.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0011_auto_20200811_2017.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0005_profile_is_default.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0005_profile_is_default.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0020_auto_20201218_0622.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0020_auto_20201218_0622.py:7:1: D101 Missing docstring in public class
+api/api/migrations/0018_crowprojects_columns.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0018_crowprojects_columns.py:7:1: D101 Missing docstring in public class
+api/api/migrations/0003_tgchannels_tg_session.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0003_tgchannels_tg_session.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0014_logs.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0014_logs.py:8:1: D101 Missing docstring in public class
+api/api/migrations/0004_merge_20200616_1427.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0004_merge_20200616_1427.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0022_crowprojects_created_at.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0022_crowprojects_created_at.py:7:1: D101 Missing docstring in public class
+api/api/migrations/0009_remove_profilegroups_group_name.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0009_remove_profilegroups_group_name.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0003_merge_20200612_1412.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0003_merge_20200612_1412.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0019_auto_20201117_2224.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0019_auto_20201117_2224.py:7:1: D101 Missing docstring in public class
+api/api/migrations/0002_auto_20200601_0548.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0002_auto_20200601_0548.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0007_auto_20200729_1134.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0007_auto_20200729_1134.py:8:1: D101 Missing docstring in public class
+api/api/migrations/0007_auto_20200729_1134.py:27:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:32:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:37:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:42:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:47:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:52:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0007_auto_20200729_1134.py:57:120: E501 line too long (129 > 119 characters)
+api/api/migrations/0017_crowprojects.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0017_crowprojects.py:8:1: D101 Missing docstring in public class
+api/api/migrations/0008_auto_20200731_1122.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0008_auto_20200731_1122.py:8:1: D101 Missing docstring in public class
+api/api/migrations/0008_auto_20200731_1122.py:71:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:76:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:81:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:86:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:91:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0008_auto_20200731_1122.py:96:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0010_profilegroups_channel_category.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0010_profilegroups_channel_category.py:7:1: D101 Missing docstring in public class
+api/api/migrations/0010_profilegroups_channel_category.py:17:120: E501 line too long (131 > 119 characters)
+api/api/migrations/0013_auto_20200917_1405.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0013_auto_20200917_1405.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0023_auto_20210127_0855.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0023_auto_20210127_0855.py:6:1: D101 Missing docstring in public class
+api/api/migrations/0015_logs_sn.py:1:1: D100 Missing docstring in public module
+api/api/migrations/0015_logs_sn.py:6:1: D101 Missing docstring in public class
+api/api/helpers/ok_helper.py:1:1: D100 Missing docstring in public module
+api/api/helpers/ok_helper.py:6:1: D103 Missing docstring in public function
+api/api/helpers/vk_helper.py:1:1: D100 Missing docstring in public module
+api/api/helpers/vk_helper.py:4:1: D103 Missing docstring in public function
+api/api/management/__init__.py:1:1: D104 Missing docstring in public package
+api/api/management/commands/runtask.py:1:1: D100 Missing docstring in public module
+api/api/management/commands/runtask.py:6:1: D101 Missing docstring in public class
+api/api/management/commands/runtask.py:9:1: D102 Missing docstring in public method
+api/api/management/commands/runtask.py:12:1: D102 Missing docstring in public method
+api/api/management/commands/__init__.py:1:1: D104 Missing docstring in public package
+api/api/management/commands/cast_mongo_data.py:1:1: D100 Missing docstring in public module
+api/api/management/commands/cast_mongo_data.py:119:1: D101 Missing docstring in public class
+api/api/management/commands/cast_mongo_data.py:122:1: D102 Missing docstring in public method
+api/api/management/commands/cast_mongo_data.py:129:1: D102 Missing docstring in public method
+api/api/management/commands/remove_old_fileds.py:1:1: D100 Missing docstring in public module
+api/api/management/commands/remove_old_fileds.py:12:1: D101 Missing docstring in public class
+api/api/management/commands/remove_old_fileds.py:15:1: D102 Missing docstring in public method
+api/tests/test_api_crow.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_crow.py:5:1: D103 Missing docstring in public function
+api/tests/test_api_crow.py:43:1: D103 Missing docstring in public function
+api/tests/__init__.py:1:1: D104 Missing docstring in public package
+api/tests/test_insta.py:1:1: D100 Missing docstring in public module
+api/tests/test_insta.py:5:1: D103 Missing docstring in public function
+api/tests/test_insta.py:18:1: D103 Missing docstring in public function
+api/tests/test_insta.py:22:85: Q000 Remove bad quotes
+api/tests/test_insta.py:36:1: D103 Missing docstring in public function
+api/tests/test_api_dashboard.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_dashboard.py:8:1: D103 Missing docstring in public function
+api/tests/test_api_zen.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_zen.py:8:1: D103 Missing docstring in public function
+api/tests/test_api_zen.py:23:15: E222 multiple spaces after operator
+api/tests/test_api_zen.py:48:1: E303 too many blank lines (3)
+api/tests/test_api_zen.py:48:1: D103 Missing docstring in public function
+api/tests/test_api_profile.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_profile.py:9:1: D103 Missing docstring in public function
+api/tests/test_api_profile.py:27:1: D103 Missing docstring in public function
+api/tests/test_api_profile.py:47:1: D103 Missing docstring in public function
+api/tests/test_api_profile.py:81:1: S106 Possible hardcoded password: 'abc'
+api/tests/test_api_profile.py:90:1: D103 Missing docstring in public function
+api/tests/test_api_profile.py:128:9: B011 Do not call assert False since python -O removes these calls. Instead callers should raise AssertionError().
+api/tests/test_api_profile.py:131:1: D103 Missing docstring in public function
+api/tests/test_api_profile.py:157:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:1:1: D100 Missing docstring in public module
+api/tests/test_celery_tasks.py:21:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:34:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:39:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:44:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:48:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:83:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:85:1: S106 Possible hardcoded password: 'QWERTY'
+api/tests/test_celery_tasks.py:143:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:154:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:166:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:206:1: D103 Missing docstring in public function
+api/tests/test_celery_tasks.py:379:1: D103 Missing docstring in public function
+api/tests/test_api_youtube.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_youtube.py:8:1: D103 Missing docstring in public function
+api/tests/test_api_youtube.py:40:1: D103 Missing docstring in public function
+api/tests/test_api_compare.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_compare.py:2:1: F401 'json' imported but unused
+api/tests/test_api_compare.py:5:1: F401 'django.http.QueryDict' imported but unused
+api/tests/test_api_compare.py:12:1: D103 Missing docstring in public function
+api/tests/test_api_compare.py:63:1: D103 Missing docstring in public function
+api/tests/test_api_tiktok.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_tiktok.py:8:1: D103 Missing docstring in public function
+api/tests/test_api_statistics.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_statistics.py:7:1: D103 Missing docstring in public function
+api/tests/test_api_statistics.py:27:1: D103 Missing docstring in public function
+api/tests/test_api_statistics.py:46:1: D103 Missing docstring in public function
+api/tests/test_api_statistics.py:78:1: D103 Missing docstring in public function
+api/tests/test_api_statistics.py:120:1: D103 Missing docstring in public function
+api/tests/test_api_statistics.py:143:1: D103 Missing docstring in public function
+api/tests/test_admin.py:1:1: D100 Missing docstring in public module
+api/tests/test_admin.py:1:1: D103 Missing docstring in public function
+api/tests/test_api_ok.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_ok.py:4:1: F401 'datetime' imported but unused
+api/tests/test_api_ok.py:21:1: D103 Missing docstring in public function
+api/tests/test_api_ok.py:29:25: S001 found modulo formatter
+api/tests/test_api_ok.py:35:25: S001 found modulo formatter
+api/tests/test_api_ok.py:37:17: S001 found modulo formatter
+api/tests/test_api_ok.py:45:25: S001 found modulo formatter
+api/tests/test_api_ok.py:47:17: S001 found modulo formatter
+api/tests/test_api_ok.py:54:1: W391 blank line at end of file
+api/tests/test_api_vk.py:1:1: D100 Missing docstring in public module
+api/tests/test_api_vk.py:10:1: D103 Missing docstring in public function
+api/tests/test_api_vk.py:42:1: W293 blank line contains whitespace
+api/tests/test_api_vk.py:46:1: E302 expected 2 blank lines, found 1
+api/tests/test_api_vk.py:46:1: D103 Missing docstring in public function
+api/tests/test_api_vk.py:81:1: D103 Missing docstring in public function
+api/tests/test_api_vk.py:132:1: D103 Missing docstring in public function
+api/tests/test_api_vk.py:149:29: F821 undefined name 'datetime'
+api/tests/factories/__init__.py:1:1: D104 Missing docstring in public package
+api/tests/factories/api_factories.py:1:1: D100 Missing docstring in public module
+api/tests/factories/api_factories.py:5:120: E501 line too long (120 > 119 characters)
+api/tests/factories/api_factories.py:9:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:10:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:15:1: E302 expected 2 blank lines, found 1
+api/tests/factories/api_factories.py:15:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:16:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:24:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:25:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:33:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:34:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:38:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:39:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:45:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:46:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:52:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:53:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:59:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:60:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:66:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:67:1: D106 Missing docstring in public nested class
+api/tests/factories/api_factories.py:73:1: D101 Missing docstring in public class
+api/tests/factories/api_factories.py:74:1: D106 Missing docstring in public nested class
+selenium_parsers/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/facebook/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/facebook/facebook_logger.py:1:1: D100 Missing docstring in public module
+selenium_parsers/facebook/facebook_logger.py:5:1: D103 Missing docstring in public function
+selenium_parsers/facebook/groups_parser.py:1:1: D100 Missing docstring in public module
+selenium_parsers/facebook/groups_parser.py:42:1: D103 Missing docstring in public function
+selenium_parsers/facebook/groups_parser.py:53:1: D103 Missing docstring in public function
+selenium_parsers/facebook/groups_parser.py:65:1: D103 Missing docstring in public function
+selenium_parsers/facebook/groups_parser.py:95:1: D103 Missing docstring in public function
+selenium_parsers/facebook/groups_parser.py:100:1: D103 Missing docstring in public function
+selenium_parsers/facebook/groups_parser.py:110:1: D103 Missing docstring in public function
+selenium_parsers/facebook/groups_parser.py:192:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+selenium_parsers/facebook/pages_parser.py:1:1: D100 Missing docstring in public module
+selenium_parsers/facebook/pages_parser.py:41:1: D103 Missing docstring in public function
+selenium_parsers/facebook/pages_parser.py:52:1: D103 Missing docstring in public function
+selenium_parsers/facebook/pages_parser.py:63:1: D103 Missing docstring in public function
+selenium_parsers/facebook/pages_parser.py:86:1: D103 Missing docstring in public function
+selenium_parsers/facebook/pages_parser.py:98:9: PIE786: Use precise exception handlers.
+selenium_parsers/facebook/pages_parser.py:118:1: D103 Missing docstring in public function
+selenium_parsers/facebook/pages_parser.py:123:1: D103 Missing docstring in public function
+selenium_parsers/facebook/pages_parser.py:199:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+selenium_parsers/facebook/utils/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/facebook/utils/database.py:1:1: D100 Missing docstring in public module
+selenium_parsers/facebook/utils/database.py:7:1: D103 Missing docstring in public function
+selenium_parsers/facebook/utils/database.py:18:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/database.py:18:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/database.py:24:24: Q001 Remove bad quotes from multiline string
+selenium_parsers/facebook/utils/page.py:1:1: D100 Missing docstring in public module
+selenium_parsers/facebook/utils/page.py:18:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:18:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:34:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:34:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:55:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:55:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:76:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:76:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:96:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:96:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:120:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:120:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:153:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:153:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:194:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:194:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:220:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:220:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:234:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:234:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:255:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/page.py:255:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:267:1: D205 1 blank line required between summary line and description
+selenium_parsers/facebook/utils/page.py:267:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/page.py:283:1: D103 Missing docstring in public function
+selenium_parsers/facebook/utils/login.py:1:1: D100 Missing docstring in public module
+selenium_parsers/facebook/utils/login.py:24:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/login.py:24:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/login.py:34:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/login.py:34:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/login.py:34:1: D401 First line should be in imperative mood; try rephrasing
+selenium_parsers/facebook/utils/login.py:44:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/login.py:44:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/login.py:44:1: D401 First line should be in imperative mood; try rephrasing
+selenium_parsers/facebook/utils/login.py:65:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/login.py:65:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/login.py:79:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/login.py:79:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/login.py:99:1: D103 Missing docstring in public function
+selenium_parsers/facebook/utils/login.py:140:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/login.py:140:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/general.py:1:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/general.py:1:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/general.py:7:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/general.py:7:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:1:1: D100 Missing docstring in public module
+selenium_parsers/facebook/utils/post.py:17:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:17:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:35:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:35:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:35:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:35:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:39:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:39:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:39:1: D401 First line should be in imperative mood
+selenium_parsers/facebook/utils/post.py:46:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:46:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:53:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:53:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:53:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:53:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+selenium_parsers/facebook/utils/post.py:57:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:57:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:76:1: S110 Try, Except, Pass detected.
+selenium_parsers/facebook/utils/post.py:76:9: PIE786: Use precise exception handlers.
+selenium_parsers/facebook/utils/post.py:81:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:81:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:100:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:100:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:121:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:121:1: D400 First line should end with a period
+selenium_parsers/facebook/utils/post.py:134:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/facebook/utils/post.py:134:1: D400 First line should end with a period
+selenium_parsers/odnoklassniki/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/odnoklassniki/ok_logger.py:1:1: D100 Missing docstring in public module
+selenium_parsers/odnoklassniki/ok_logger.py:5:1: D103 Missing docstring in public function
+selenium_parsers/odnoklassniki/extra_data_parser.py:1:1: D100 Missing docstring in public module
+selenium_parsers/odnoklassniki/extra_data_parser.py:16:1: D204 1 blank line required after class docstring
+selenium_parsers/odnoklassniki/extra_data_parser.py:16:1: D205 1 blank line required between summary line and description
+selenium_parsers/odnoklassniki/extra_data_parser.py:16:1: D400 First line should end with a period
+selenium_parsers/odnoklassniki/extra_data_parser.py:20:1: D107 Missing docstring in __init__
+selenium_parsers/odnoklassniki/extra_data_parser.py:24:1: D102 Missing docstring in public method
+selenium_parsers/odnoklassniki/extra_data_parser.py:42:1: D102 Missing docstring in public method
+selenium_parsers/odnoklassniki/extra_data_parser.py:50:1: D102 Missing docstring in public method
+selenium_parsers/odnoklassniki/extra_data_parser.py:54:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/odnoklassniki/extra_data_parser.py:54:1: D400 First line should end with a period
+selenium_parsers/odnoklassniki/extra_data_parser.py:81:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/odnoklassniki/extra_data_parser.py:81:1: D400 First line should end with a period
+selenium_parsers/odnoklassniki/extra_data_parser.py:98:31: Q000 Remove bad quotes
+selenium_parsers/worker/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/worker/utils.py:1:1: D100 Missing docstring in public module
+selenium_parsers/worker/utils.py:21:1: D103 Missing docstring in public function
+selenium_parsers/worker/utils.py:28:1: D103 Missing docstring in public function
+selenium_parsers/worker/utils.py:32:1: S501 Requests call with verify=False disabling SSL certificate checks, security issue.
+selenium_parsers/worker/utils.py:43:1: D103 Missing docstring in public function
+selenium_parsers/worker/utils.py:54:1: D103 Missing docstring in public function
+selenium_parsers/worker/utils.py:76:1: D103 Missing docstring in public function
+selenium_parsers/worker/utils.py:93:1: D103 Missing docstring in public function
+selenium_parsers/worker/utils.py:110:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:1:1: D100 Missing docstring in public module
+selenium_parsers/worker/run.py:34:1: D101 Missing docstring in public class
+selenium_parsers/worker/run.py:38:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:50:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:56:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:69:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:84:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:92:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:98:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:105:1: D205 1 blank line required between summary line and description
+selenium_parsers/worker/run.py:105:1: D400 First line should end with a period
+selenium_parsers/worker/run.py:119:1: D205 1 blank line required between summary line and description
+selenium_parsers/worker/run.py:119:1: D400 First line should end with a period
+selenium_parsers/worker/run.py:133:1: D205 1 blank line required between summary line and description
+selenium_parsers/worker/run.py:133:1: D400 First line should end with a period
+selenium_parsers/worker/run.py:157:1: D103 Missing docstring in public function
+selenium_parsers/worker/run.py:196:9: PIE786: Use precise exception handlers.
+selenium_parsers/worker/run.py:217:1: D103 Missing docstring in public function
+selenium_parsers/worker/tasks_runer/executor.py:1:1: D100 Missing docstring in public module
+selenium_parsers/worker/tasks_runer/executor.py:4:1: S404 Consider possible security implications associated with subprocess module.
+selenium_parsers/worker/tasks_runer/executor.py:26:1: D103 Missing docstring in public function
+selenium_parsers/worker/tasks_runer/executor.py:27:5: T001 print found.
+selenium_parsers/worker/tasks_runer/executor.py:29:5: T001 print found.
+selenium_parsers/worker/tasks_runer/executor.py:34:1: S602 subprocess call with shell=True identified, security issue.
+selenium_parsers/worker/tasks_runer/executor.py:37:1: D103 Missing docstring in public function
+selenium_parsers/worker/tasks_runer/executor.py:60:5: T001 print found.
+selenium_parsers/worker/tasks_runer/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/utils/constants.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/constants.py:55:1: D101 Missing docstring in public class
+selenium_parsers/utils/constants.py:59:1: D105 Missing docstring in magic method
+selenium_parsers/utils/constants.py:62:1: D105 Missing docstring in magic method
+selenium_parsers/utils/selenium_utils.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/selenium_utils.py:15:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/selenium_utils.py:15:1: D400 First line should end with a period
+selenium_parsers/utils/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/utils/database.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/database.py:11:1: D205 1 blank line required between summary line and description
+selenium_parsers/utils/database.py:11:1: D400 First line should end with a period
+selenium_parsers/utils/database.py:11:1: D403 First word of the first line should be properly capitalized
+selenium_parsers/utils/database.py:29:1: D103 Missing docstring in public function
+selenium_parsers/utils/database.py:31:38: Q000 Remove bad quotes
+selenium_parsers/utils/database.py:35:1: D103 Missing docstring in public function
+selenium_parsers/utils/database.py:61:1: D103 Missing docstring in public function
+selenium_parsers/utils/parsers_signals.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/parsers_signals.py:15:1: D103 Missing docstring in public function
+selenium_parsers/utils/parsers_signals.py:32:1: D103 Missing docstring in public function
+selenium_parsers/utils/parsers_signals.py:43:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/parsers_signals.py:43:1: D400 First line should end with a period
+selenium_parsers/utils/parsers_signals.py:51:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/parsers_signals.py:51:1: D400 First line should end with a period
+selenium_parsers/utils/parsers_signals.py:51:1: D401 First line should be in imperative mood; try rephrasing
+selenium_parsers/utils/mongo_models.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/mongo_models.py:4:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:6:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:9:1: D107 Missing docstring in __init__
+selenium_parsers/utils/mongo_models.py:14:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:18:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:19:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:23:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:24:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:28:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:29:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:33:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:34:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:44:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:47:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:58:1: D107 Missing docstring in __init__
+selenium_parsers/utils/mongo_models.py:64:1: D105 Missing docstring in magic method
+selenium_parsers/utils/mongo_models.py:76:1: D105 Missing docstring in magic method
+selenium_parsers/utils/mongo_models.py:84:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:87:1: D102 Missing docstring in public method
+selenium_parsers/utils/mongo_models.py:96:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:106:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:119:1: D101 Missing docstring in public class
+selenium_parsers/utils/mongo_models.py:126:1: D101 Missing docstring in public class
+selenium_parsers/utils/parsing.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/parsing.py:10:1: D101 Missing docstring in public class
+selenium_parsers/utils/parsing.py:11:1: D107 Missing docstring in __init__
+selenium_parsers/utils/parsing.py:15:1: D102 Missing docstring in public method
+selenium_parsers/utils/parsing.py:29:1: D102 Missing docstring in public method
+selenium_parsers/utils/parsing.py:33:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/parsing.py:33:1: D400 First line should end with a period
+selenium_parsers/utils/parsing.py:39:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/parsing.py:39:1: D400 First line should end with a period
+selenium_parsers/utils/parsing.py:42:1: S311 Standard pseudo-random generators are not suitable for security/cryptographic purposes.
+selenium_parsers/utils/general.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/general.py:18:1: D101 Missing docstring in public class
+selenium_parsers/utils/general.py:19:1: D102 Missing docstring in public method
+selenium_parsers/utils/general.py:27:1: D103 Missing docstring in public function
+selenium_parsers/utils/general.py:42:1: D103 Missing docstring in public function
+selenium_parsers/utils/general.py:56:1: D103 Missing docstring in public function
+selenium_parsers/utils/general.py:67:1: D103 Missing docstring in public function
+selenium_parsers/utils/general.py:72:16: Q000 Remove bad quotes
+selenium_parsers/utils/general.py:75:14: Q000 Remove bad quotes
+selenium_parsers/utils/general.py:112:28: Q000 Remove bad quotes
+selenium_parsers/utils/general.py:113:9: Q000 Remove bad quotes
+selenium_parsers/utils/general.py:127:9: Q000 Remove bad quotes
+selenium_parsers/utils/general.py:136:1: D205 1 blank line required between summary line and description
+selenium_parsers/utils/general.py:136:1: D400 First line should end with a period
+selenium_parsers/utils/selenium_loggers.py:1:1: D100 Missing docstring in public module
+selenium_parsers/utils/selenium_loggers.py:10:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/selenium_loggers.py:10:1: D204 1 blank line required after class docstring
+selenium_parsers/utils/selenium_loggers.py:10:1: D400 First line should end with a period
+selenium_parsers/utils/selenium_loggers.py:13:1: D102 Missing docstring in public method
+selenium_parsers/utils/selenium_loggers.py:18:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/selenium_loggers.py:18:1: D204 1 blank line required after class docstring
+selenium_parsers/utils/selenium_loggers.py:18:1: D400 First line should end with a period
+selenium_parsers/utils/selenium_loggers.py:21:1: D102 Missing docstring in public method
+selenium_parsers/utils/selenium_loggers.py:26:1: D200 One-line docstring should fit on one line with quotes
+selenium_parsers/utils/selenium_loggers.py:26:1: D400 First line should end with a period
+selenium_parsers/utils/selenium_loggers.py:26:1: D401 First line should be in imperative mood; try rephrasing
+selenium_parsers/tiktok/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/tiktok/embeds_parser.py:1:1: D100 Missing docstring in public module
+selenium_parsers/tiktok/tiktok_logger.py:1:1: D100 Missing docstring in public module
+selenium_parsers/tiktok/tiktok_logger.py:5:1: D103 Missing docstring in public function
+selenium_parsers/tiktok/generated_content_parser.py:1:1: D100 Missing docstring in public module
+selenium_parsers/tiktok/posts_parser.py:1:1: D100 Missing docstring in public module
+selenium_parsers/tiktok/utils.py:1:1: D100 Missing docstring in public module
+selenium_parsers/tiktok/utils.py:19:1: D101 Missing docstring in public class
+selenium_parsers/tiktok/utils.py:24:1: D103 Missing docstring in public function
+selenium_parsers/tiktok/utils.py:29:1: D101 Missing docstring in public class
+selenium_parsers/tiktok/utils.py:33:1: D107 Missing docstring in __init__
+selenium_parsers/tiktok/utils.py:49:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:57:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:96:1: D205 1 blank line required between summary line and description
+selenium_parsers/tiktok/utils.py:96:1: D400 First line should end with a period
+selenium_parsers/tiktok/utils.py:233:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:255:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:271:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:291:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:296:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:325:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:360:1: D102 Missing docstring in public method
+selenium_parsers/tiktok/utils.py:374:1: D103 Missing docstring in public function
+selenium_parsers/insta/__init__.py:1:1: D104 Missing docstring in public package
+selenium_parsers/insta/util.py:1:1: D100 Missing docstring in public module
+selenium_parsers/insta/util.py:9:1: D103 Missing docstring in public function
+selenium_parsers/insta/util.py:12:27: P101 format string does contain unindexed parameters
+selenium_parsers/insta/util.py:12:27: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:15:1: D103 Missing docstring in public function
+selenium_parsers/insta/util.py:18:38: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:21:1: D103 Missing docstring in public function
+selenium_parsers/insta/util.py:26:51: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:27:40: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:27:48: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:29:32: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:29:44: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:30:40: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:32:22: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:36:1: D103 Missing docstring in public function
+selenium_parsers/insta/util.py:44:13: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:48:36: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:52:17: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:58:24: P101 format string does contain unindexed parameters
+selenium_parsers/insta/util.py:58:24: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:58:71: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:59:38: P101 format string does contain unindexed parameters
+selenium_parsers/insta/util.py:59:38: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:59:85: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:62:15: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:64:27: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:64:38: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:65:28: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:65:53: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:66:36: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:66:44: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:68:30: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:69:28: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:71:21: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:72:22: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:73:23: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:73:32: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:74:65: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:75:25: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:75:52: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:76:44: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:77:22: Q000 Remove bad quotes
+selenium_parsers/insta/util.py:78:30: Q000 Remove bad quotes
+selenium_parsers/insta/parser.py:1:1: D100 Missing docstring in public module
+selenium_parsers/insta/parser.py:29:1: D103 Missing docstring in public function
+selenium_parsers/insta/parser.py:35:1: D103 Missing docstring in public function
+selenium_parsers/insta/parser.py:50:1: D103 Missing docstring in public function
+selenium_parsers/insta/parser.py:72:39: Q000 Remove bad quotes
+selenium_parsers/insta/parser.py:73:39: Q000 Remove bad quotes
+selenium_parsers/insta/parser.py:74:43: Q000 Remove bad quotes
+selenium_parsers/insta/parser.py:76:47: Q000 Remove bad quotes
+selenium_parsers/insta/parser.py:90:66: Q000 Remove bad quotes
+selenium_parsers/insta/parser.py:100:36: Q000 Remove bad quotes
+selenium_parsers/insta/parser.py:107:70: Q000 Remove bad quotes
+selenium_parsers/insta/insta_logger.py:1:1: D100 Missing docstring in public module
+selenium_parsers/insta/insta_logger.py:5:1: D103 Missing docstring in public function
+proxy_manager/commons.py:1:1: D100 Missing docstring in public module
+proxy_manager/commons.py:28:5: Q001 Remove bad quotes from multiline string
+proxy_manager/commons.py:32:1: D101 Missing docstring in public class
+proxy_manager/commons.py:34:1: D107 Missing docstring in __init__
+proxy_manager/commons.py:34:1: S107 Possible hardcoded password: ''
+proxy_manager/commons.py:45:1: D102 Missing docstring in public method
+proxy_manager/commons.py:45:50: Q000 Remove bad quotes
+proxy_manager/commons.py:52:1: D102 Missing docstring in public method
+proxy_manager/commons.py:60:1: D400 First line should end with a period
+proxy_manager/commons.py:64:1: D102 Missing docstring in public method
+proxy_manager/commons.py:67:1: D102 Missing docstring in public method
+proxy_manager/commons.py:82:1: D102 Missing docstring in public method
+proxy_manager/commons.py:86:1: D102 Missing docstring in public method
+proxy_manager/commons.py:94:1: D105 Missing docstring in magic method
+proxy_manager/commons.py:97:1: D105 Missing docstring in magic method
+proxy_manager/database.py:1:1: D100 Missing docstring in public module
+proxy_manager/database.py:12:1: D205 1 blank line required between summary line and description
+proxy_manager/database.py:12:1: D400 First line should end with a period
+proxy_manager/database.py:12:1: D403 First word of the first line should be properly capitalized
+proxy_manager/database.py:32:1: D400 First line should end with a period
+proxy_manager/database.py:38:13: Q001 Remove bad quotes from multiline string
+proxy_manager/database.py:59:1: D400 First line should end with a period
+proxy_manager/database.py:61:1: S608 Possible SQL injection vector through string-based query construction.
+proxy_manager/database.py:67:1: D103 Missing docstring in public function
+proxy_manager/database.py:70:1: S608 Possible SQL injection vector through string-based query construction.
+proxy_manager/database.py:75:1: D103 Missing docstring in public function
+proxy_manager/database.py:82:1: D103 Missing docstring in public function
+proxy_manager/cli.py:1:1: D100 Missing docstring in public module
+proxy_manager/cli.py:15:1: D103 Missing docstring in public function
+proxy_manager/cli.py:20:16: Q001 Remove bad quotes from multiline string
+proxy_manager/cli.py:112:1: D400 First line should end with a period
+proxy_manager/cli.py:119:1: D400 First line should end with a period
+proxy_manager/cli.py:132:1: D103 Missing docstring in public function
+proxy_manager/cli.py:139:1: D205 1 blank line required between summary line and description
+proxy_manager/cli.py:139:1: D400 First line should end with a period
+proxy_manager/cli.py:151:18: Q001 Remove bad quotes from multiline string
+proxy_manager/cli.py:160:1: D103 Missing docstring in public function
+proxy_manager/cli.py:175:1: D202 No blank lines allowed after function docstring
+proxy_manager/cli.py:175:1: D205 1 blank line required between summary line and description
+proxy_manager/cli.py:175:1: D400 First line should end with a period
+proxy_manager/cli.py:209:1: D400 First line should end with a period
+proxy_manager/cli.py:209:1: D403 First word of the first line should be properly capitalized
+proxy_manager/cli.py:222:1: D103 Missing docstring in public function
+proxy_manager/cli.py:248:9: T001 print found.
+proxy_manager/cli.py:251:9: T001 print found.
+proxy_manager/cli.py:259:13: T001 print found.
+proxy_manager/cli.py:261:9: T001 print found.
+proxy_manager/cli.py:264:16: Q000 Remove bad quotes
+proxy_manager/validators.py:1:1: D100 Missing docstring in public module
+proxy_manager/validators.py:5:1: D103 Missing docstring in public function
+proxy_manager/validators.py:10:1: D103 Missing docstring in public function
+proxy_manager/validators.py:17:1: D103 Missing docstring in public function
+proxy_manager/validators.py:21:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+proxy_manager/validators.py:21:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+proxy_manager/validators.py:21:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+proxy_manager/validators.py:21:5: PIE781: You are assigning to a variable and then returning. Instead remove the assignment and return.
+proxy_manager/api.py:1:1: D100 Missing docstring in public module
+proxy_manager/api.py:19:1: D210 No whitespaces allowed surrounding docstring text
+proxy_manager/api.py:19:1: D400 First line should end with a period
+proxy_manager/api.py:36:1: D103 Missing docstring in public function
+proxy_manager/api.py:48:1: D205 1 blank line required between summary line and description
+proxy_manager/api.py:48:1: D400 First line should end with a period
+proxy_manager/api.py:70:1: S201 A Flask app appears to be run with debug=True, which exposes the Werkzeug debugger and allows the execution of arbitrary code.
+tg/constants.py:1:1: D100 Missing docstring in public module
+tg/telegram_logger.py:1:1: D100 Missing docstring in public module
+tg/telegram_logger.py:8:1: D200 One-line docstring should fit on one line with quotes
+tg/telegram_logger.py:8:1: D400 First line should end with a period
+tg/telegram_logger.py:8:1: D401 First line should be in imperative mood; try rephrasing
+tg/__init__.py:1:1: D104 Missing docstring in public package
+tg/tg_auth.py:1:1: D100 Missing docstring in public module
+tg/tg_auth.py:43:1: D103 Missing docstring in public function
+tg/tg_auth.py:67:1: D103 Missing docstring in public function
+tg/tg_auth.py:85:1: D103 Missing docstring in public function
